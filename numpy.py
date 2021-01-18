@@ -20,6 +20,6 @@ for num in a:
         if num == 0:
             pass
         else:
-            all_Triple += str(num) + "  "
+            all_Triple += str(num) + "  "             #呈1題，將數列取出3的倍數。
             
 print(all_Triple)
